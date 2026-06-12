@@ -1,6 +1,5 @@
 langchain
 langchain-core
-langchain-community
 langgraph
 langchain-google-genai
 langchain-groq
@@ -13,5 +12,6 @@ uvicorn
 requests
 langchain_huggingface
 streamlit
-arxiv
 requests
+arxiv==4.0.0
+langchain-community==0.4.2
