@@ -12,3 +12,6 @@ fastapi
 uvicorn
 requests
 langchain_huggingface
+streamlit
+arxiv
+requests
